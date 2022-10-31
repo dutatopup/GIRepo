@@ -1,6 +1,6 @@
-# Version 3.2.0 
+# Update Version 3.2.0
   
-###### Pre-Install Section 
+###### Pre-Install
  
  [Game Data from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.0.0_3.2.0_hdiff_0XM45IeyvRhgYCLj.zip) 
   
@@ -26,7 +26,7 @@
    
  <hr> 
   
-###### Full Install Section 
+###### Full Installation
  
  [Game Data 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip) 
   
