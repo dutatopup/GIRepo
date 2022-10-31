@@ -1,6 +1,7 @@
 # Version 3.2.0 
   
- ###### Pre-Install Section 
+###### Pre-Install Section 
+ 
  [Game Data from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.0.0_3.2.0_hdiff_0XM45IeyvRhgYCLj.zip) 
   
  [Audio CN from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.0.0_3.2.0_hdiff_1n6f7JSmpBiHOvz8.zip) 
@@ -25,7 +26,8 @@
    
  <hr> 
   
- ###### Full Install Section 
+###### Full Install Section 
+ 
  [Game Data 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip) 
   
  [Audio CN 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/Audio_Chinese_3.2.0.zip) 
@@ -38,5 +40,5 @@
   
  <hr> 
   
- ###### DirectX
+###### DirectX
  [DirectX Download](https://autopatchhk.yuanshen.com/client_app/plugins/DXSETUP.zip)
