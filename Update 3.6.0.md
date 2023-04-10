@@ -1,6 +1,7 @@
-# Update Version 3.6.0
+![Genshin Version](https://img.shields.io/badge/3.6.0-Update-green?style=for-the-badge)
   
 #### Pre-Install
+![Version](https://img.shields.io/badge/3.4.0%20to%203.60-Update-red?style=for-the-badge)
  
  [Game Data from 3.4.0 to 3.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.4.0_3.6.0_hdiff_t30d4K7DUnwNcmja.zip)
   
@@ -13,7 +14,9 @@
  [Audio KO from 3.4.0 to 3.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.4.0_3.6.0_hdiff_bf2wae6FH7npkOgt.zip) 
   
 <hr>
-  
+
+![Version](https://img.shields.io/badge/3.5.0%20to%203.60-Update-blue?style=for-the-badge)
+
  [Game Data from 3.5.0 to 3.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.5.0_3.6.0_hdiff_70c4ojbL1mfTwY3Q.zip) 
   
  [Audio CN from 3.5.0 to 3.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.5.0_3.6.0_hdiff_hJrb6Zzsq0m7GQHK.zip) 
@@ -27,6 +30,7 @@
  <hr> 
   
 ##### Full Installation
+![Version](https://img.shields.io/badge/Full-Update-gold?style=for-the-badge)
  
  [Game Data 3.6.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip) 
   
@@ -40,5 +44,5 @@
   
  <hr> 
   
-###### DirectX
- [DirectX Download](https://autopatchhk.yuanshen.com/client_app/plugins/DXSETUP.zip)
+##### DirectX
+[![DirectX Download](https://img.shields.io/badge/DirectX-Download-blueviolet?style=for-the-badge)](https://autopatchhk.yuanshen.com/client_app/plugins/DXSETUP.zip)
