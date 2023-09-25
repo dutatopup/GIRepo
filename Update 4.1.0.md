@@ -32,7 +32,7 @@
 ##### Full Installation
 ![Version](https://img.shields.io/badge/Full-Update-gold?style=for-the-badge)
  
- [Game Data 4.1.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230916101725_v2XCKuuvzCVh3BdI/GenshinImpact_4.1.0.zip) - Size : 60 GB ++
+ [Game Data 4.1.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230916101725_v2XCKuuvzCVh3BdI/GenshinImpact_4.1.0.zip) - Size : 60 GB ++ //Note : still part files from GenshinImpact_4.1.0.zip.001 until GenshinImpact_4.1.0.zip.007
   
  [Audio CN 4.1.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230916101725_v2XCKuuvzCVh3BdI/Audio_Chinese_4.1.0.zip) - Size : 11,06 GB
   
