@@ -31,9 +31,16 @@
   
 ##### Full Installation
 ![Version](https://img.shields.io/badge/Full-Update-gold?style=for-the-badge)
- 
- [Game Data 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip)
- 
+
+ Game Data 4.2.0 : 
+ [Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.001)
+ [Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.002)
+ [Part 3](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.003)
+ [Part 4](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.004)
+ [Part 5](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.005)
+ [Part 6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.006)
+ [Part 7](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.007)
+
  [Audio CN 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Chinese_4.2.0.zip)
  
  [Audio EN 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_English(US)_4.2.0.zip)
