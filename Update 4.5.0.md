@@ -32,7 +32,7 @@
 ##### Full Installation
 ![Version](https://img.shields.io/badge/Full-Update-gold?style=for-the-badge)
 
- Game Data 4.5.0 : 10 GB/Parts
+ Game Data 4.5.0 : 10 GB/Parts - Last Part : 175.5 MB
  
  [Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240301203033_RZSIny3hwJ5nq959/GenshinImpact_4.5.0.zip.001)
  [Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240301203033_RZSIny3hwJ5nq959/GenshinImpact_4.5.0.zip.002)
