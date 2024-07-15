@@ -7,5 +7,5 @@ Versi Terakhir [Cek API](https://gidlc.mazagung.id/latest.php) atau [Cek API#2](
 
 
 ## NEW UPDATE API FOR HOYOVERSE LAUNCHER
-[HoYo Launcher](https://sg-public-api.serenetia.com/api/hyp_global?game_id=gopR6Cufr3)
+[API HoYo Launcher for GENSHIN IMPACT](https://sg-public-api.serenetia.com/api/hyp_global?game_id=gopR6Cufr3)
 
