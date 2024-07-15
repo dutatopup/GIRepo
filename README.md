@@ -11,5 +11,6 @@ Versi Terakhir [Cek API](https://gidlc.mazagung.id/latest.php) atau [Cek API#2](
 New [GetFromAPI](https://github.com/dutatopup/GIRepo/blob/main/getfromapi.php)
 
 Click [here](https://gidlc.mazagung.id/newapi_predl.php) for check new version
+and [here](https://gidlc.mazagung.id/newapi_latest.php) for latest version in game
 
 
