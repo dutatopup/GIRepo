@@ -1,4 +1,3 @@
 # Genshin Impact Repository
 
-#### HoYoLauncher API RESPONSE
-[API's Response](https://github.com/dutatopup/HoYo-Games-Repository)
+If there is no update here, please visit the page https://api.mazagung.id/
