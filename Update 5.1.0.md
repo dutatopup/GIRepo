@@ -17,7 +17,7 @@
 
 ![Version](https://img.shields.io/badge/5.0.0%20to%205.1.0-Update-blue?style=for-the-badge)
 
- [Game Data from 5.0.0 to 5.1.0]( https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.0.0_5.1.0_hdiff_YqcpfTRBIuOIwHrO) Size: 18.00 GB
+ [Game Data from 5.0.0 to 5.1.0]( https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.0.0_5.1.0_hdiff_YqcpfTRBIuOIwHrO.zip) Size: 18.00 GB
   
  [Audio CN from 5.0.0 to 5.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.0.0_5.1.0_hdiff_bktSOAPsrWSJHOII.zip) Size: 550.23 MB
   
