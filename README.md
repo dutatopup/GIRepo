@@ -1,3 +1,3 @@
 # Genshin Impact Repository
 
-If there is no update here, please visit the page https://api.mazagung.id/
+If there is no update here, please visit the page https://api.mazagung.id/ or https://t.me/PaimonUpdate_Bot
